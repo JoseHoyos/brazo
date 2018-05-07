@@ -1,0 +1,13 @@
+
+Impresion 3D en ABS:
+1 tenedor.
+2 Perfiles en L de refuerzos juntura y pegamento. 
+1 Platina superior.
+
+Tornilleria varia.
+
+Dynamixel:
+2 Servos MX-28T.
+2 N101 (disco acople eje servo)
+2 FR07-B101.
+cables servos.
